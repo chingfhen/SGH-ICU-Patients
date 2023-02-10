@@ -1,0 +1,3 @@
+SQLITE_DATABASE_DIR: ./data/sqlite3
+TARGET_DATASET_PATH: ./data/archive/ICU.csv
+
