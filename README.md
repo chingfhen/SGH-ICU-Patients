@@ -4,4 +4,4 @@ In this project, I performed basic preprocessing, [data visualizations](https://
 
 More info:
 
-The best model could predict survival at 93% fbeta score. With this metric, we can be sure the we are prioritizing patients who are at risk of mortality. Based on my analysis, some indicators of mortality at ICU are SysBP<170, Age>50, or from emergency. It would be interesting to see how these analysis and modelling could be used in practice. Suppose, the complexity of the problem increases, we could automate the detection of serious complications like mortality by deploying models through apps.
+The best model could predict survival at 93% fbeta score. With this metric, we can be sure the we are prioritizing patients who are at risk of mortality. Based on my analysis, some indicators of mortality at ICU are SysBP<170, Age>50, or from emergency. It would be interesting to see how these analysis and modelling could be used in practice. Suppose, the complexity of the problem increases, it would be beneficial to automate the detection of serious complications like mortality by deploying models through apps because human detection will not be easy.
