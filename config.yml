@@ -2,4 +2,9 @@
 SQLITE_DATABASE_DIR: ./data/sqlite3
 # path to dataset
 TARGET_DATASET_PATH: ./data/archive/ICU.csv
+# directory containing models
+MODEL_DIR: ./models
+# directory to model results
+RESULTS_DIR: ./results
+
 
